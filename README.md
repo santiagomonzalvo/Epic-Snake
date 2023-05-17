@@ -9,3 +9,6 @@ Dependencies:
 https://www.sfml-dev.org/download.php
 2. In the project, a jungle-themed music was used, which couldn't be included due to exceeding the 25MB file size limit.
 
+![Screenshot_1](https://github.com/santiagomonzalvo/Epic-Snake/assets/87154066/3882746e-124d-4b27-bc0a-b5f0dc3e5725)
+
+
