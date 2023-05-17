@@ -11,4 +11,8 @@ https://www.sfml-dev.org/download.php
 
 ![Screenshot_1](https://github.com/santiagomonzalvo/Epic-Snake/assets/87154066/3882746e-124d-4b27-bc0a-b5f0dc3e5725)
 
+![Screenshot_2](https://github.com/santiagomonzalvo/Epic-Snake/assets/87154066/02243041-c630-43cf-8903-d9e6379fa364)
+
+![Screenshot_3](https://github.com/santiagomonzalvo/Epic-Snake/assets/87154066/991f6072-e2e3-4c48-bb2b-f34eef642b09)
+
 
